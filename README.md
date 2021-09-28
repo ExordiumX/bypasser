@@ -1,1 +1,1 @@
-# bypasser
+# Bypass captcha with Puppeteer
